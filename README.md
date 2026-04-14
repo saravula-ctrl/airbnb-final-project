@@ -60,7 +60,6 @@ airbnb-final-project/
 ├── Project_Final_Code.ipynb
 ├── README.md
 ├── requirements.txt
-├── .gitignore
 │
 ├── data/
 │   ├── listings_chicago.csv
