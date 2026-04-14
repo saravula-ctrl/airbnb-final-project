@@ -66,8 +66,6 @@ airbnb-final-project/
 │   ├── listings_chicago.csv
 │   ├── listings_boston.csv
 │   └── listings_seattle.csv
-│
-└── final_project_outputs/
 
 ---
 
