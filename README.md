@@ -10,6 +10,32 @@ The goal of this project is to:
 
 ---
 
+## How to Run
+
+### 1. Clone the repository
+git clone <your-repo-link>
+cd airbnb-final-project
+
+### 2. Install dependencies
+pip install -r requirements.txt
+
+### 3. Add data
+Create a folder named `data` and place:
+- listings_chicago.csv
+- listings_boston.csv
+- listings_seattle.csv
+
+### 4. Run notebook
+jupyter notebook
+
+Open:
+Project_Final_Code.ipynb
+
+Run all cells.
+
+
+---
+
 ## Dataset
 The dataset includes Airbnb listings from:
 - Chicago
@@ -66,31 +92,6 @@ airbnb-final-project/
 ### Evaluation
 - RMSE, MAE, R² (regression)
 - Accuracy and confusion matrix (classification)
-
----
-
-## How to Run
-
-### 1. Clone the repository
-git clone <your-repo-link>
-cd airbnb-final-project
-
-### 2. Install dependencies
-pip install -r requirements.txt
-
-### 3. Add data
-Create a folder named `data` and place:
-- listings_chicago.csv
-- listings_boston.csv
-- listings_seattle.csv
-
-### 4. Run notebook
-jupyter notebook
-
-Open:
-Project_Final_Code.ipynb
-
-Run all cells.
 
 ---
 
