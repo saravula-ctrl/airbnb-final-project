@@ -27,6 +27,7 @@ Create a folder named `data` and place:
 
 ### 4. Run notebook
 jupyter notebook
+THIS NOTEBOOK TAKES AROUND 25 MINUTES TO RUN
 
 Open:
 Project_Final_Code.ipynb
